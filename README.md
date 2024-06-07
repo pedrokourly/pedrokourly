@@ -2,7 +2,6 @@
   <h1>Bem-vindo, eu sou o Pedro!</h1>
 </div>
 <div align="center">
-  <a href="https://github.com/KyKirma">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KyKirma&show_icons=true&theme=vue-dark&include_all_commits=true&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyKirma&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
