@@ -34,14 +34,9 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrokourly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrokourly&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokourly&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff"/>
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrokourly&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff" alt="GitHub Activity Graph" />
 </div>
 
 <br/>
