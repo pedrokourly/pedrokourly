@@ -75,15 +75,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedrokourly&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokourly&layout=compact&hide_border=true&langs_count=6" />
-</p>
-
----
-
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pedrokourly-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrokourly)
